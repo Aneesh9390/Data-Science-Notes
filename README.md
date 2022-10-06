@@ -8,6 +8,8 @@ Monte Carlo generally refers to the synonym for randomness in gambling.
 
 Monte Carlo Simulations are Simulations evolving randomly.
 
+Random sampling is used to generate multiple possible outcomes and calculate the average result.
+
 The core idea of Monte Carlo Simulation is that we can get an unbiased, representative group of samples from some large ocean of possibilities if we allow the simulation to evolve randomly.
 
 So in this it states that :
