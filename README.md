@@ -26,6 +26,14 @@ Other common appli are things like :
   + Planning for spare capacity
 
 ***Monte Carlo Technique involves 3 basic steps :***
-  1. Set up predictive model :
+  1. Set up **Predictive Model** :
 
       + This is identifying both the dependent variable to be predicted and the independent variables, also known as the input risk of predictive variables that will drive the predictions.
+
+  2. Specify the **Probability Distribution** :
+
+      + this is probability distribution of the independent variables.
+
+  3. **Run Simulations** repeatedly :
+
+      + generating random values of the independent variables.
