@@ -4,6 +4,8 @@
 
 Monte Carlo 
 
+Monte Carlo simulation is a mathematical technique which is used to estimate the possible outcomes of an uncertain event.
+
 Monte Carlo generally refers to the synonym for randomness in gambling.
 
 Monte Carlo Simulations are Simulations evolving randomly.
