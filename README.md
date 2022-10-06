@@ -1,6 +1,9 @@
 # Data-Science-Notes
 
 ## Monte Carlo (Method or Simulation) :
+
+Monte Carlo 
+
 Monte Carlo generally refers to the synonym for randomness in gambling.
 
 Monte Carlo Simulations are Simulations evolving randomly.
