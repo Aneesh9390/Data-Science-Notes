@@ -20,3 +20,7 @@ Most applications are in the area of :
   + Portfolio Management
   + Investment Planning
 
+Other common appli are things like :
+  + Risk analysis
+  + Option pricing
+  + Planning for spare capacity
