@@ -24,3 +24,7 @@ Other common appli are things like :
   + Risk analysis
   + Option pricing
   + Planning for spare capacity
+
+***Monte Carlo Technique involves 3 basic steps :***
+  1. Set up predictive model :
+    + This is identifying both the dependent variable to be predicted and the independent variables, also known as the input risk of predictive variables that will drive the predictions.
