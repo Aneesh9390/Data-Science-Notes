@@ -14,3 +14,9 @@ The core idea of Monte Carlo Simulation is that we can get an unbiased, represen
 
 So in this it states that :
   + More sample paths **_leads to_** less noisy image. 
+
+### Applicatins :
+Most applications are in the area of :
+  + Portfolio Management
+  + Investment Planning
+
